@@ -9,18 +9,18 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Maru Notes',
+  domain: 'noted.maru.my',
+  author: 'Maru',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Catatan Maru di Notion',
 
   // social usernames (optional)
   twitter: 'bejomaru',
   github: 'putraeka',
-  linkedin: 'fisch2',
-  // mastodon: '#', // optional mastodon profile URL, provides link verification
+  // linkedin: 'fisch2',
+  mastodon: 'https://social.maru.my/@me', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
